@@ -28,10 +28,10 @@ Follow these steps to set up and run the PDF Merger & Splitter Tool locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/mandirashetty/PDF-tool-kit.git](https://github.com/mandirashetty/PDF-tool-kit.git)
+    cd PDF-tool-kit
     ```
-    *(Replace `your-username` and `your-repo-name` with your actual GitHub details)*
+    
 
 2.  **Create a virtual environment (recommended):**
     ```bash
