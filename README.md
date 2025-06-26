@@ -55,9 +55,9 @@ Follow these steps to set up and run the PDF Merger & Splitter Tool locally:
 
 5.  **Run the Streamlit application:**
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
-    (Assuming your main script is named `app.py`)
+    
 
     This command will open the application in your web browser, typically at `http://localhost:8501`.
 
